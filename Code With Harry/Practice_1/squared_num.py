@@ -7,3 +7,4 @@ print(squared_num)
 for i in squared_num:
     print(f"Square of {i} is {i**2}")
 
+print(squared_num.clear())
