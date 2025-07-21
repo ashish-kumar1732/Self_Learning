@@ -40,8 +40,8 @@
         
 #     attempt=attempt+1
 
-
-no = 15
+import random
+no = random.randint(1,26)
 guess = 9
 attempt = 1
 
