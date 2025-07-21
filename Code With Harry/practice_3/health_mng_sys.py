@@ -71,7 +71,7 @@ def save_plan(user, plan_type, content):
     filename = f"{user.lower()}_{plan_type.lower()}.txt"
     with open(filename, "a") as f:
         timestamp = getdata()
-        f.write(f"{timestamp} {content}\n")
+        f.write(f"\n{timestamp} {content}")
 
 user_name = input("Enter name of user: ").strip().lower()
 
