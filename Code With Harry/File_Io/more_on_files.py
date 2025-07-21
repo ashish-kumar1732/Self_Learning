@@ -1,0 +1,8 @@
+f= open("ash2.txt")
+# print(f.tell())
+print(f.readline())
+f.seek(10)
+# f.write("\nadd this content")
+# print(f.tell())
+print(f.readline())
+f.close()
