@@ -24,3 +24,15 @@
 # sahi2.name = "ash"
 # print(sahi2.name)
 
+# class employee():
+#     no_of_leaves=8
+
+
+# ashish = employee()
+# ashi = employee()
+
+# ashish.no_of_leaves = 9
+
+# print(employee.__dict__)
+# print(ashish.__dict__)
+# print(ashish.no_of_leaves)
