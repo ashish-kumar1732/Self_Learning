@@ -1,10 +1,10 @@
-friends = ["ashish", "Piyush", "Harshit"]
+# friends = ["ashish", "Piyush", "Harshit"]
 
-# friends.append("Pratyansh")
+# # friends.append("Pratyansh")
 
-# print(friends)
+# # print(friends)
 
-# friends.remove("ashish")
-# print(friends)
+# # friends.remove("ashish")
+# # print(friends)
 
-friends.extend()
+# friends.extend()
